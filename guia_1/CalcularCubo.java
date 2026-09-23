@@ -18,4 +18,5 @@ public class CalcularCubo {
         System.out.println("El cubo es: " + cubo);
         scan.close();
     }
+    
 }
